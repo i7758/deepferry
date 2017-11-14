@@ -9,7 +9,7 @@ a:hover { text-decoration: none; }
 .wx_popup { width: 100%; height: 70%; top: 30%; left: 0; background: #FFF; z-index: 11; position: fixed; }
 .wx_warp { width: 100%; margin: 0 auto; }
 .wx_01 { width: 100%; padding: 10px 15px; border-bottom: 1px solid #ddd; float: left; }
-.wx_01 .t1 { width: 10%; text-align: left; font-size: 24px; color: #999; height: 20px; line-height: 20px; float: left; font-family: cursive; }
+.wx_01 .t1 { width: 10%; text-align: left; font-size: 24px; color: #999; height: 20px; line-height: 20px; float: left; }
 .wx_01 .t2 { width: 80%; text-align: center; font-size: 16px; font-weight: bold; height: 20px; line-height: 20px; float: left; }
 .wx_01 .t3 { width: 10%; text-align: right; font-size: 30px; color: #999; height: 20px; line-height: 16px; float: left; }
 .wx_02 { width: 100%; padding: 30px 15px; float: left; }
